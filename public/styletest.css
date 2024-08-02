@@ -77,30 +77,38 @@ button {
 /*Separate position by 40px per button*/
 
 #button1 {
-    bottom: 300px;
+    bottom: 380px;
 }
 
 #button2 {
-    bottom: 260px;
+    bottom: 340px;
 }
 
 #button3 {
-    bottom: 220px;
+    bottom: 300px;
 }
 
 #button4 {
-    bottom: 180px;
+    bottom: 260px;
 }
 
 #button5 {
-    bottom: 140px;
+    bottom: 220px;
 }
 
 #button6 {
-    bottom: 100px;
+    bottom: 180px;
 }
 
 #button7 {
+    bottom: 140px;
+}
+
+#button8 {
+    bottom: 100px;
+}
+
+#button9 {
     bottom: 20px;
 }
 

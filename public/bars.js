@@ -14,8 +14,10 @@ class Header extends HTMLElement {
                         <button onclick="changeFontStyle(null)" id="button4" class="helper">Default font</button>
                         <button onclick="changeFontStyle('CascadiaCode')" id="button5" class="helper">Cascadia Code</button>
                         <button onclick="changeFontStyle('OpenDyslexic3')" id="button6" class="helper">OpenDyslexic3</button>
+                        <button onclick="changeLang('en')" id="button7" class="helper">English</button>
+                        <button onclick="changeLang('ja')" id="button8" class="helper">Japanese</button>
                     </details>
-                    <button onclick="topFunction()" id="button7" title="Go to top" class="helper">Go to top</button>
+                    <button onclick="topFunction()" id="button9" title="Go to top" class="helper">Go to top</button>
                 <nav class="navbar" id="desknav">
                    
                     <ul class="vcr">
